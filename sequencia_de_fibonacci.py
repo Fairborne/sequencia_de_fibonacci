@@ -23,3 +23,4 @@ while i < len(fibonacci):
     i = i + 1
 else:
     print("O número digitado não faz parte da sequência de Fibonacci.")
+    
